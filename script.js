@@ -1,4 +1,4 @@
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbxmKerUnN_tobwdp1OiuwD7Lx0UPu7y4CZH099PxRIM0BsESRmOo4T8b3wdqE6ndclRHA/exec";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwuOhZPO7OtZxkMGMOMJWJXRAMbR8t5l9TCviVoOHhgjVUVn3kzM2KE1ILnBbkCB21TDg/exec";
 let allStudents = [];
 let currentUserRole = "User";
 
@@ -586,6 +586,7 @@ function printReceipt(index) {
     printWindow.document.write(receiptHTML);
     printWindow.document.close();
 }
+
 
 
 
