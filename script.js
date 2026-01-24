@@ -604,3 +604,4 @@ function printReceipt(index) {
 
 
 
+
